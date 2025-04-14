@@ -1,6 +1,6 @@
 # Kirby Workshop @HFBK 25/04/17
 
-This is the repository for the Kirby Workshop happening on the 17th of May 2025 at HFBK Hamburg.
+This is the repository for the Kirby Workshop happening on the 17th of April 2025 at HFBK Hamburg.
 
 ## What's Kirby?
 
