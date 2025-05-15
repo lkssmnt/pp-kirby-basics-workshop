@@ -1,0 +1,38 @@
+html {
+  color: green;
+  font-size: 24px;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+  gap: 1rem;
+}
+
+p {
+  margin: 0;
+  color: blue;
+}
+
+
+.bodytext p {
+  color: red;
+}
+
+img {
+  width: 200px;  
+}
+
+.projects-list {
+  list-style: none;
+}
+
+.projects-list a {
+  display: flex;
+  gap: 1rem;
+  border-bottom: 1px solid black;
+}
+
+.projects-list li:first-child a {
+  border-top: 1px solid black;
+}

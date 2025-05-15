@@ -1,14 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
+<?php snippet("head") ?>
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Kirby Basics Workshop</title>
-</head>
+<h1><?= $page->title() ?></h1>
+<a href="<?= page("projects")->url() ?>">Projects</a>
 
-<body>
-  <h1><?= $page->title() ?></h1>
-</body>
-
-</html>
+<?php snippet("foot") ?>
